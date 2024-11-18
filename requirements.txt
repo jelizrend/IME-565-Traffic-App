@@ -6,3 +6,4 @@ scikit-learn==1.5.2
 streamlit_folium==0.23.1
 seaborn==0.13.2
 scikit-optimize==0.10.2
+category_encoders==2.6.4
