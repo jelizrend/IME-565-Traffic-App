@@ -2,6 +2,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
+import sklearn
 import warnings
 import xgboost as xgb
 warnings.filterwarnings('ignore')
